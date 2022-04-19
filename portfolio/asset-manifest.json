@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.c40c806d.css",
-    "main.js": "./static/js/main.6b2b2fb5.js",
-    "static/media/JayvB.jpg": "./static/media/JayvB.2b85f2131e9e96c8bb89.jpg",
-    "static/media/CV.jpg": "./static/media/CV.3f0b04d815b13fb27c97.jpg",
-    "static/media/TravelSpace.png": "./static/media/TravelSpace.07b0f5a5886e24011671.png",
-    "static/media/Bilhus.JPG": "./static/media/Bilhus.aecbf3fb69783bdc089a.JPG",
-    "static/media/procreate-girl.jpg": "./static/media/procreate-girl.df8c17624c79b4dbe3b2.jpg",
-    "static/media/Homeyoga.JPG": "./static/media/Homeyoga.35fafa49034c72987d40.JPG",
-    "static/media/me.jpg": "./static/media/me.7c42b37da794c7e504e8.jpg",
-    "static/media/bg-texture.png": "./static/media/bg-texture.6570145ed90b0344aaa0.png",
-    "static/media/Ecosteam.jpeg": "./static/media/Ecosteam.b115ddf80d912f966e0a.jpeg",
-    "static/media/Fugetech.jpeg": "./static/media/Fugetech.eb63bc603f025f585321.jpeg",
-    "static/media/Jay-Vb.jpg": "./static/media/Jay-Vb.a2e59e9819c0dc7677c4.jpg",
-    "index.html": "./index.html",
-    "main.c40c806d.css.map": "./static/css/main.c40c806d.css.map",
-    "main.6b2b2fb5.js.map": "./static/js/main.6b2b2fb5.js.map"
+    "main.css": "/portfolio/static/css/main.216ced41.css",
+    "main.js": "/portfolio/static/js/main.1dd391e8.js",
+    "static/media/JayvB.jpg": "/portfolio/static/media/JayvB.2b85f2131e9e96c8bb89.jpg",
+    "static/media/CV.jpg": "/portfolio/static/media/CV.3f0b04d815b13fb27c97.jpg",
+    "static/media/TravelSpace.png": "/portfolio/static/media/TravelSpace.07b0f5a5886e24011671.png",
+    "static/media/Bilhus.JPG": "/portfolio/static/media/Bilhus.aecbf3fb69783bdc089a.JPG",
+    "static/media/procreate-girl.jpg": "/portfolio/static/media/procreate-girl.df8c17624c79b4dbe3b2.jpg",
+    "static/media/Homeyoga.JPG": "/portfolio/static/media/Homeyoga.35fafa49034c72987d40.JPG",
+    "static/media/me.jpg": "/portfolio/static/media/me.7c42b37da794c7e504e8.jpg",
+    "static/media/bg-texture.png": "/portfolio/static/media/bg-texture.6570145ed90b0344aaa0.png",
+    "static/media/Ecosteam.jpeg": "/portfolio/static/media/Ecosteam.b115ddf80d912f966e0a.jpeg",
+    "static/media/Fugetech.jpeg": "/portfolio/static/media/Fugetech.eb63bc603f025f585321.jpeg",
+    "static/media/Jay-Vb.jpg": "/portfolio/static/media/Jay-Vb.a2e59e9819c0dc7677c4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.216ced41.css.map": "/portfolio/static/css/main.216ced41.css.map",
+    "main.1dd391e8.js.map": "/portfolio/static/js/main.1dd391e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c40c806d.css",
-    "static/js/main.6b2b2fb5.js"
+    "static/css/main.216ced41.css",
+    "static/js/main.1dd391e8.js"
   ]
 }
