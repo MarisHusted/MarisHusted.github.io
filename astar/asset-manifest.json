@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/astar/static/css/main.913da115.css",
+    "main.js": "/astar/static/js/main.b15ec593.js",
+    "static/media/cofee.png": "/astar/static/media/cofee.eebfa3e66fcfab1cc118.png",
+    "static/media/barn-3.jpg": "/astar/static/media/barn-3.21439c70d1ecdd1b96db.jpg",
+    "static/media/scissor.jpg": "/astar/static/media/scissor.7d3d3d26ea66e4c20eaa.jpg",
+    "static/media/barn-1.jpg": "/astar/static/media/barn-1.6ba371f6ef4e2851359e.jpg",
+    "static/media/Mahmood-1.jpg": "/astar/static/media/Mahmood-1.d7579e5147414c3c760f.jpg",
+    "static/media/herre-1.jpg": "/astar/static/media/herre-1.cd8c62046e0a71dc1476.jpg",
+    "static/media/dame-1.jpg": "/astar/static/media/dame-1.168bdc0b4d399806b38c.jpg",
+    "static/media/Mahmood.jpg": "/astar/static/media/Mahmood.71b21920ddaf397ed369.jpg",
+    "static/media/presse-3.jpg": "/astar/static/media/presse-3.2ce45ad9f000be0829ac.jpg",
+    "static/media/dame-2.jpg": "/astar/static/media/dame-2.a23ecb33c5b02786fa85.jpg",
+    "static/media/herre-3.jpg": "/astar/static/media/herre-3.018efedaa3c695815a30.jpg",
+    "static/media/presse-1.jpg": "/astar/static/media/presse-1.28d8b47b3fd984df2239.jpg",
+    "static/media/presse-2.jpg": "/astar/static/media/presse-2.a225ac9ac59475ed1c5c.jpg",
+    "static/media/footerline.JPG": "/astar/static/media/footerline.3c2a4b49afbdb9a9e258.JPG",
+    "static/media/barn-2.jpg": "/astar/static/media/barn-2.102cc498ca8d82330e24.jpg",
+    "static/media/dame-3.jpg": "/astar/static/media/dame-3.01b54282bd672d847104.jpg",
+    "static/media/herre-2.jpg": "/astar/static/media/herre-2.1cdd090410f16d5d1357.jpg",
+    "static/media/star.jpg": "/astar/static/media/star.f097e9c4935d1370595e.jpg",
+    "static/media/logo.jpg": "/astar/static/media/logo.ed192d1425229e5d2419.jpg",
+    "index.html": "/astar/index.html",
+    "main.913da115.css.map": "/astar/static/css/main.913da115.css.map",
+    "main.b15ec593.js.map": "/astar/static/js/main.b15ec593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913da115.css",
+    "static/js/main.b15ec593.js"
+  ]
+}
