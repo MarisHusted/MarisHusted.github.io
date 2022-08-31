@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.216ced41.css",
-    "main.js": "/portfolio/static/js/main.4b95d599.js",
+    "main.css": "/portfolio/static/css/main.52c5a49a.css",
+    "main.js": "/portfolio/static/js/main.b6153e49.js",
+    "static/media/Alita.png": "/portfolio/static/media/Alita.35261544f02b1e79142a.png",
     "static/media/hopsin.jpg": "/portfolio/static/media/hopsin.28dc38a6a12386a8b35b.jpg",
     "static/media/JayvB.jpg": "/portfolio/static/media/JayvB.2b85f2131e9e96c8bb89.jpg",
     "static/media/woods.jpg": "/portfolio/static/media/woods.2c4d3a3622c7ac33ae0f.jpg",
     "static/media/CV.jpg": "/portfolio/static/media/CV.3f0b04d815b13fb27c97.jpg",
-    "static/media/TravelSpace.png": "/portfolio/static/media/TravelSpace.07b0f5a5886e24011671.png",
-    "static/media/Bilhus.JPG": "/portfolio/static/media/Bilhus.aecbf3fb69783bdc089a.JPG",
+    "static/media/yokai.png": "/portfolio/static/media/yokai.afd3051fca530d0f845c.png",
+    "static/media/cartoonme.jpg": "/portfolio/static/media/cartoonme.63cd3c1fe8fcdd4f5db9.jpg",
     "static/media/procreate-girl.jpg": "/portfolio/static/media/procreate-girl.df8c17624c79b4dbe3b2.jpg",
     "static/media/Homeyoga.JPG": "/portfolio/static/media/Homeyoga.35fafa49034c72987d40.JPG",
+    "static/media/galleryillustration.jpg": "/portfolio/static/media/galleryillustration.ace1d38fa23c956ce0e8.jpg",
+    "static/media/pricingillustration.jpg": "/portfolio/static/media/pricingillustration.708231a17e820ed24def.jpg",
     "static/media/me.jpg": "/portfolio/static/media/me.7c42b37da794c7e504e8.jpg",
-    "static/media/bg-texture.png": "/portfolio/static/media/bg-texture.6570145ed90b0344aaa0.png",
-    "static/media/Ecosteam.jpeg": "/portfolio/static/media/Ecosteam.b115ddf80d912f966e0a.jpeg",
-    "static/media/Fugetech.jpeg": "/portfolio/static/media/Fugetech.eb63bc603f025f585321.jpeg",
-    "static/media/Jay-Vb.jpg": "/portfolio/static/media/Jay-Vb.a2e59e9819c0dc7677c4.jpg",
+    "static/media/designillustration.jpg": "/portfolio/static/media/designillustration.8f4e68304f93233d76ed.jpg",
+    "static/media/Landingpage_Illustration.jpg": "/portfolio/static/media/Landingpage_Illustration.1515860a417bf5ea0b63.jpg",
+    "static/media/aboutillustration.jpg": "/portfolio/static/media/aboutillustration.c87434632e4863992dc0.jpg",
+    "static/media/experienceillustration.jpg": "/portfolio/static/media/experienceillustration.8c5ce0bcbf4fc000f962.jpg",
+    "static/media/contactillustration.JPG": "/portfolio/static/media/contactillustration.22b6dba48f13f06e2a94.JPG",
+    "static/media/servicesillustration.jpg": "/portfolio/static/media/servicesillustration.a10a33deff897bf24127.jpg",
     "index.html": "/portfolio/index.html",
-    "main.216ced41.css.map": "/portfolio/static/css/main.216ced41.css.map",
-    "main.4b95d599.js.map": "/portfolio/static/js/main.4b95d599.js.map"
+    "main.52c5a49a.css.map": "/portfolio/static/css/main.52c5a49a.css.map",
+    "main.b6153e49.js.map": "/portfolio/static/js/main.b6153e49.js.map"
   },
   "entrypoints": [
-    "static/css/main.216ced41.css",
-    "static/js/main.4b95d599.js"
+    "static/css/main.52c5a49a.css",
+    "static/js/main.b6153e49.js"
   ]
 }
